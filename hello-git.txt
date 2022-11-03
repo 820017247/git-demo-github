@@ -3,4 +3,8 @@ main pull test
 main push test
 为人名服务
 slave push test 11111111111111111
+<<<<<<< HEAD
 main test 33333 
+=======
+slave product test 22222
+>>>>>>> product
